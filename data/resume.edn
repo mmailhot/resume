@@ -1,0 +1,109 @@
+{
+ :contact
+ {
+  :email "marc@mlht.ca"
+  :phone "(905) 650-0062"
+  :web "mlht.ca"
+  :twitter "marc_mlht"
+  :github "mmailhot"
+  }
+ :about "Backend-focused full stack developer, with a special interest in programming languages, functional programming, reactive programming, systems architecture, and natural language processing. Currently a 2B Computer Science student at the University of Waterloo and seeking a 4 month internship beginning in September 2016."
+ :skills
+ {
+  :languages ["Python"
+              "Clojure"
+              "Haskell"
+              "HTML5"
+              "Javascript"
+              "D"
+              "Nix"
+              "CSS"
+              "SASS"
+              "C#"
+              "Dart"
+              "Haskell"
+              "Racket"
+              "Java"]
+  :technologies ["webapp2"
+                 "Google App Engine"
+                 "Flask"
+                 "PostgreSQL"
+                 "mongoDB"
+                 "Android"
+                 "Node.js"
+                 "Linux"
+                 "Git"
+                 "NixOS"]
+  }
+ :experience
+ [
+  {
+   :name "Kik Interactive"
+   :title "Web Developer (Co-op)"
+   :date "Jan 2016 - Apr 2016"
+   :highlights
+   [
+    "Optimized a high volume messaging system, leading to a 25% drop in request latency"
+    "Took a leadership role in the development of an unannounced user facing product"
+    ]
+   }
+  {
+   :name "Kik Interactive"
+   :title "Web Developer (Co-op)"
+   :date "Apr 2015 - Aug 2015"
+   :highlights
+   [
+    "Rearchitected and developed server side code handling >10M daily messages"
+    "Built infrastructure for the handling of image and video content in a high-volume environment"
+    ]
+   }
+  {
+   :name "Westcott Vineyards"
+   :title "Sytems Administrator"
+   :date "Apr 2013 - Jun 2014"
+   :highlights
+   [
+    "Directed the implementation of IT systems for an upstart winery"
+    "Selected and deployed communications and POS systems"
+    ]
+   }
+  ]
+ :projects
+ [
+  {
+   :name "Newsmash"
+   :link "github.com/mmailhot/newsmash"
+   :date "2015"
+   :highlights
+   [
+    "Implemented a Clojure web app and Chrome extension to provide relate articles through text analysis",
+    "Winner, IBM Prize, UofT Hacks 2015",
+    "Winner, Intel Mashery Prize, UofT Hacks 2015"
+    ]
+   }
+  {
+   :name "Parrot"
+   :link "github.com/mmailhot/parrot"
+   :date "2014"
+   :highlights
+   [
+    "Designed and implemented a voice-controlled, hands-free email interface"
+    "Collaborated with a team of designers and developers"
+    "Runner Up, Wit.ai Prize, Hack the North 2014"
+    ]
+   }
+  ]
+ :education
+ [
+  {
+   :name "University of Waterloo"
+   :program "Candidate for Bachelor of Computer Science",
+   :date "Sept 2014 - Present"
+   :highlights
+   [
+    "4.0 Cumulative GPA"
+    "Completed advanced level Computer Science courses"
+    ]
+   }
+  ]
+}
