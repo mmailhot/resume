@@ -18,7 +18,7 @@
 (defn project-html [project]
   [:section.dated-item.project
    [:div.dated-item-head
-    [:h3.name [:a {:href (:link project)} (:name project)]]
+    [:h3.name [:a {:href (str "http://" (:link project))} (:name project)]]
     [:div.details
      [:span.date (:date project)]]]
    [:ul.highlights
