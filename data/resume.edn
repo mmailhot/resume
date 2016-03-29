@@ -57,7 +57,7 @@
    :date "Apr 2015 - Aug 2015"
    :highlights
    [
-    "Reengineerd core server side Python code handling >10M daily messages"
+    "Reengineered core server side Python code handling >10M daily messages"
     "Built infrastructure for the handling of image and video content in a high-volume environment on the Google Cloud Platform"
     ]
    }
