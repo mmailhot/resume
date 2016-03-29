@@ -25,13 +25,14 @@
               "Racket"
               "Java"]
   :technologies ["webapp2"
-                 "Google App Engine"
+                 "Google Cloud Platform"
                  "Flask"
                  "PostgreSQL"
                  "Om"
                  "Angular"
                  "mongoDB"
                  "Android"
+                 "Docker"
                  "Node.js"
                  "Linux"
                  "Git"
@@ -45,8 +46,9 @@
    :date "Jan 2016 - Apr 2016"
    :highlights
    [
-    "Optimized a high volume messaging system, leading to a 25% drop in request latency"
-    "Took a leadership role in the development of an unannounced user facing product"
+    "Optimized a high volume messaging system in Python, leading to a 25% drop in request latency"
+    "Was the primary designer and developer of an unannounced user facing server"
+    "Designed, wrote and documented an upcoming open source Python SDK for our API platform"
     ]
    }
   {
@@ -55,8 +57,8 @@
    :date "Apr 2015 - Aug 2015"
    :highlights
    [
-    "Rearchitected and developed server side code handling >10M daily messages"
-    "Built infrastructure for the handling of image and video content in a high-volume environment"
+    "Reengineerd core server side Python code handling >10M daily messages"
+    "Built infrastructure for the handling of image and video content in a high-volume environment on the Google Cloud Platform"
     ]
    }
   {
@@ -78,7 +80,8 @@
    :date "2015"
    :highlights
    [
-    "Implemented a Clojure web app and Chrome extension to provide relate articles through text analysis",
+    "Implemented a Clojure web app and Chrome extension to provide groups of articles on the same topic through text analysis",
+    "Designed a easy to use, visually appealing web interface",
     "Winner, IBM Prize, UofT Hacks 2015",
     "Winner, Intel Mashery Prize, UofT Hacks 2015"
     ]
@@ -90,7 +93,7 @@
    :highlights
    [
     "Designed and implemented a voice-controlled, hands-free email interface"
-    "Collaborated with a team of designers and developers"
+    "Developed the code interfacing with and connect the Wit.ai and Gmail APIs"
     "Runner Up, Wit.ai Prize, Hack the North 2014"
     ]
    }
@@ -104,7 +107,7 @@
    :highlights
    [
     "4.0 Cumulative GPA"
-    "Completed advanced level Computer Science courses"
+    "100% grade in two advanced level CS courses"
     ]
    }
   ]
