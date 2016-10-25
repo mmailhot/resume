@@ -7,10 +7,11 @@
   :twitter "marc_mlht"
   :github "mmailhot"
   }
- :about "Backend-focused full stack developer, with a special interest in programming languages, functional programming, reactive programming, systems architecture, and natural language processing. Currently a 2B Computer Science student at the University of Waterloo and seeking a 4 month internship beginning in September 2016."
+ :about "Backend-focused full stack developer, with a special interest in programming languages, functional programming, reactive programming, systems architecture, distributed systems and natural language processing. Currently a 3A Computer Science student at the University of Waterloo and seeking a 4 month internship beginning in May 2017."
  :skills
  {
-  :languages ["Python"
+  :languages ["OCaml"
+              "Python"
               "Clojure"
               "Haskell"
               "HTML5"
@@ -35,11 +36,23 @@
                  "Docker"
                  "Node.js"
                  "Linux"
+                 "Mercurial"
                  "Git"
                  "NixOS"]
   }
  :experience
  [
+  {
+   :name "Jane Street Europe"
+   :title "Developer Intern"
+   :date "Sept 2016 - Dec 2016"
+   :highlights
+   [
+    "Designed and developed a type inference and schema generation system to build queryable Postgres databases from
+     untyped s-expressions"
+    "Wrote performance-sensitive OCaml code handling and processing high volume message streams"
+    ]
+   }
   {
    :name "Kik Interactive"
    :title "Web Developer (Co-op)"
@@ -47,7 +60,7 @@
    :highlights
    [
     "Optimized a high volume messaging system in Python, leading to a 25% drop in request latency"
-    "Was the primary designer and developer of an unannounced user facing server"
+    "Was the primary designer and developer of a user facing chat bot"
     "Designed, wrote and documented an upcoming open source Python SDK for our API platform"
     ]
    }
@@ -61,19 +74,30 @@
     "Built infrastructure for the handling of image and video content in a high-volume environment on the Google Cloud Platform"
     ]
    }
-  {
-   :name "Westcott Vineyards"
-   :title "Sytems Administrator"
-   :date "Apr 2013 - Jun 2014"
-   :highlights
-   [
-    "Directed the implementation of IT systems for an upstart winery"
-    "Selected and deployed communications and POS systems"
-    ]
-   }
   ]
  :projects
  [
+  {
+   :name "Dayder"
+   :link "github.com/trishume/dayder"
+   :date "2016"
+   :highlights
+   [
+    "Web-app for quickly finding spurious correlations among 390,000 datasets"
+    "Developed a Rust backend efficiently finding correlations using a custom binary time series data protocol"
+    "Designed and wrote CSS for the front-end design"
+    ]
+   }
+  {
+   :name "Femto Chat"
+   :link "github.com/mmailhot/femto-chat"
+   :date "2016"
+   :highlights
+   [
+    "Built a prototype IRC Client in D in one weekend"
+    "Developed a highly optimized IRC serialization and deserialization code using D templates"
+    ]
+   }
   {
    :name "Newsmash"
    :link "github.com/mmailhot/newsmash"
@@ -84,17 +108,6 @@
     "Designed a easy to use, visually appealing web interface",
     "Winner, IBM Prize, UofT Hacks 2015",
     "Winner, Intel Mashery Prize, UofT Hacks 2015"
-    ]
-   }
-  {
-   :name "Parrot"
-   :link "github.com/mmailhot/parrot"
-   :date "2014"
-   :highlights
-   [
-    "Designed and implemented a voice-controlled, hands-free email interface"
-    "Developed the code interfacing with and connect the Wit.ai and Gmail APIs"
-    "Runner Up, Wit.ai Prize, Hack the North 2014"
     ]
    }
   ]
