@@ -16,13 +16,15 @@
               "Haskell"
               "HTML5"
               "Javascript"
+              "C"
+              "C++"
               "D"
               "Nix"
               "CSS"
               "SASS"
               "C#"
               "Dart"
-              "Haskell"
+              "Rust"
               "Racket"
               "Java"]
   :technologies ["webapp2"
@@ -51,6 +53,7 @@
     "Designed and developed a type inference and schema generation system to build queryable Postgres databases from
      untyped s-expressions"
     "Wrote performance-sensitive OCaml code handling and processing high volume message streams"
+    "Rewrote distributed data analysis to use an efficient binary data format, resulting in 10x performance improvements"
     ]
    }
   {
