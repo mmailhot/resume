@@ -7,17 +7,17 @@
   :twitter "marc_mlht"
   :github "mmailhot"
   }
- :about "Backend-focused full stack developer, with a special interest in programming languages, functional programming, reactive programming, systems architecture, distributed systems and natural language processing. Currently a 3A Computer Science student at the University of Waterloo and seeking a 4 month internship beginning in May 2017."
+ :about "Backend-focused full stack developer, with a special interest in programming languages, functional programming, compilers, systems architecture, distributed systems and natural language processing. Currently a 3A Computer Science student at the University of Waterloo and seeking a 4 month internship beginning in January 2018."
  :skills
  {
   :languages ["OCaml"
               "Python"
+              "C++"
               "Clojure"
               "Haskell"
               "HTML5"
               "Javascript"
               "C"
-              "C++"
               "D"
               "Nix"
               "CSS"
@@ -28,22 +28,29 @@
               "Racket"
               "Java"]
   :technologies ["webapp2"
+                 "Linux"
                  "Google Cloud Platform"
-                 "Flask"
                  "PostgreSQL"
-                 "Om"
                  "Angular"
-                 "mongoDB"
                  "Android"
                  "Docker"
                  "Node.js"
-                 "Linux"
                  "Mercurial"
                  "Git"
                  "NixOS"]
   }
  :experience
  [
+  {
+   :name "Apple Inc."
+   :title "Platform Architecture Intern"
+   :date "May 2017 - August 2017"
+   :highlights
+   [
+    "Contributed to the development of a high-performance, circut level, hardware simulation compiler"
+    "Designed and developed performance monitoring infrastructure to track compiler performance"
+   ]
+  }
   {
    :name "Jane Street Europe"
    :title "Developer Intern"
