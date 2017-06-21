@@ -47,7 +47,7 @@
    :date "May 2017 - August 2017"
    :highlights
    [
-    "Contributed to the development of a high-performance, circut level, hardware simulation compiler"
+    "Contributed to the development of a high-performance, circuit level, hardware simulation compiler"
     "Designed and developed performance monitoring infrastructure to track compiler performance"
    ]
   }
