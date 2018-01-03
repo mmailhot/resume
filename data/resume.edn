@@ -42,6 +42,14 @@
  :experience
  [
   {
+   :name "Jane Street"
+   :title "Developer Intern"
+   :date "Jan 2017 - Apr 2017"
+   :highlights
+   [
+    ]
+   }
+  {
    :name "Apple Inc."
    :title "Platform Architecture Intern"
    :date "May 2017 - August 2017"
@@ -70,8 +78,7 @@
    :highlights
    [
     "Optimized a high volume messaging system in Python, leading to a 25% drop in request latency"
-    "Was the primary designer and developer of a user facing chat bot"
-    "Designed, wrote and documented an upcoming open source Python SDK for our API platform"
+    "Designed, wrote and documented an open source Python SDK for our API platform"
     ]
    }
   {
@@ -80,13 +87,22 @@
    :date "Apr 2015 - Aug 2015"
    :highlights
    [
-    "Reengineered core server side Python code handling >10M daily messages"
     "Built infrastructure for the handling of image and video content in a high-volume environment on the Google Cloud Platform"
     ]
    }
   ]
  :projects
  [
+  {
+   :name "Flappy Goose"
+   :link "github.com/mmailhot/FlappyGoose"
+   :date "2017"
+   :highlights
+   [
+    "Gameboy Advance game written entirely in Rust"
+    "Developed a convenient set of Rust macros for specifying, reading, and writing memory-mapped IO registers"
+    ]
+   }
   {
    :name "Dayder"
    :link "github.com/trishume/dayder"
@@ -114,10 +130,7 @@
    :date "2015"
    :highlights
    [
-    "Implemented a Clojure web app and Chrome extension to provide groups of articles on the same topic through text analysis",
-    "Designed a easy to use, visually appealing web interface",
-    "Winner, IBM Prize, UofT Hacks 2015",
-    "Winner, Intel Mashery Prize, UofT Hacks 2015"
+    "Implemented a Clojure web app and Chrome extension to provide groups of articles on the same topic through text analysis"
     ]
    }
   ]
