@@ -47,6 +47,8 @@
    :date "Jan 2017 - Apr 2017"
    :highlights
    [
+"Improved internal change management tooling to better track intra-repo dependencies using build artifacts"
+"Developed an instruction set simulator for a RISC CPU architecture and integrated it with FPGA simulation tools"
     ]
    }
   {
@@ -87,7 +89,6 @@
    :date "Apr 2015 - Aug 2015"
    :highlights
    [
-    "Built infrastructure for the handling of image and video content in a high-volume environment on the Google Cloud Platform"
     ]
    }
   ]
