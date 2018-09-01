@@ -42,9 +42,17 @@
  :experience
  [
   {
+   :name "Tsuru Capital"
+   :title "Developer Intern"
+   :date "Sept 2018 - Dec 2018"
+   :highlights
+   [
+    ]
+   }
+  {
    :name "Jane Street"
    :title "Developer Intern"
-   :date "Jan 2017 - Apr 2017"
+   :date "Jan 2018 - Apr 2018"
    :highlights
    [
 "Improved internal change management tooling to better track intra-repo dependencies using build artifacts"
