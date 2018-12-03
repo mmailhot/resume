@@ -7,37 +7,22 @@
   :twitter "marc_mlht"
   :github "mmailhot"
   }
- :about "Backend-focused full stack developer, with a special interest in programming languages, functional programming, compilers, systems architecture, distributed systems and natural language processing. Currently a 3A Computer Science student at the University of Waterloo and seeking a 4 month internship beginning in January 2018."
+ :about "Backend-focused full stack developer, with a special interest in programming languages, functional programming, compilers, systems architecture, distributed systems and natural language processing."
  :skills
  {
   :languages ["OCaml"
+              "Haskell"
               "Python"
               "C++"
+              "Rust"
               "Clojure"
-              "Haskell"
               "HTML5"
-              "Javascript"
               "C"
-              "D"
               "Nix"
               "CSS"
               "SASS"
               "C#"
-              "Dart"
-              "Rust"
-              "Racket"
-              "Java"]
-  :technologies ["webapp2"
-                 "Linux"
-                 "Google Cloud Platform"
-                 "PostgreSQL"
-                 "Angular"
-                 "Android"
-                 "Docker"
-                 "Node.js"
-                 "Mercurial"
-                 "Git"
-                 "NixOS"]
+              "Racket"]
   }
  :experience
  [
@@ -47,6 +32,8 @@
    :date "Sept 2018 - Dec 2018"
    :highlights
    [
+    "Researched and implemented high-performance, low-latency trading strategies in Haskell"
+    "Improved the accuracy of an internal trading simulator"
     ]
    }
   {
@@ -131,15 +118,6 @@
    [
     "Built a prototype IRC Client in D in one weekend"
     "Developed a highly optimized IRC serialization and deserialization code using D templates"
-    ]
-   }
-  {
-   :name "Newsmash"
-   :link "github.com/mmailhot/newsmash"
-   :date "2015"
-   :highlights
-   [
-    "Implemented a Clojure web app and Chrome extension to provide groups of articles on the same topic through text analysis"
     ]
    }
   ]

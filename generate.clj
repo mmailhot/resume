@@ -62,9 +62,7 @@
        [:div.skills-list
         [:h3 "Languages"]
         [:ul (map #(vector :li %) (:languages (:skills data)))]]
-       [:div.skills-list
-        [:h3 "Technologies"]
-        [:ul (map #(vector :li %) (:technologies (:skills data)))]]]]
+       ]]
      [:div.left-col
       [:section#expyerience.dated-list
        [:h2 "Experience"]
