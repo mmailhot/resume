@@ -125,12 +125,13 @@
  [
   {
    :name "University of Waterloo"
-   :program "Candidate for Bachelor of Computer Science",
-   :date "Sept 2014 - Present"
+   :program "Bachelor of Computer Science",
+   :date "Sept 2014 - June 2019"
    :highlights
    [
-    "4.0 Cumulative GPA"
-    "100% grade in two advanced level CS courses"
+    "Honours Computer Science, Co-operative Program"
+    "With Distinction - Dean's Honours List"
+    "92% Cumulative GPA"
     ]
    }
   ]
