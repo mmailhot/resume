@@ -12,6 +12,9 @@
     [:h3.name (:name job)]
     [:div.details
      [:span.position (:title job)] ", " [:span.date (:date job)]]]
+   [:div.dated-item-subhead
+     [:span.location (:location job)]
+   ]
    [:ul.highlights
     (map #(vector :li %) (:highlights job))]])
 

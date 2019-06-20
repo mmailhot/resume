@@ -29,6 +29,7 @@
   {
    :name "Tsuru Capital"
    :title "Developer Intern"
+   :location "Tokyo"
    :date "Sept 2018 - Dec 2018"
    :highlights
    [
@@ -39,6 +40,7 @@
   {
    :name "Jane Street"
    :title "Developer Intern"
+   :location "New York City"
    :date "Jan 2018 - Apr 2018"
    :highlights
    [
@@ -49,6 +51,7 @@
   {
    :name "Apple Inc."
    :title "Platform Architecture Intern"
+   :location "Cupertino"
    :date "May 2017 - August 2017"
    :highlights
    [
@@ -59,6 +62,7 @@
   {
    :name "Jane Street Europe"
    :title "Developer Intern"
+   :location "London"
    :date "Sept 2016 - Dec 2016"
    :highlights
    [
@@ -71,6 +75,7 @@
   {
    :name "Kik Interactive"
    :title "Web Developer (Co-op)"
+   :location "Waterloo"
    :date "Jan 2016 - Apr 2016"
    :highlights
    [
@@ -81,6 +86,7 @@
   {
    :name "Kik Interactive"
    :title "Web Developer (Co-op)"
+   :location "Waterloo"
    :date "Apr 2015 - Aug 2015"
    :highlights
    [
@@ -110,16 +116,16 @@
     "Designed and wrote CSS for the front-end design"
     ]
    }
-  {
-   :name "Femto Chat"
-   :link "github.com/mmailhot/femto-chat"
-   :date "2016"
-   :highlights
-   [
-    "Built a prototype IRC Client in D in one weekend"
-    "Developed a highly optimized IRC serialization and deserialization code using D templates"
-    ]
-   }
+;  {
+;   :name "Femto Chat"
+;   :link "github.com/mmailhot/femto-chat"
+;   :date "2016"
+;   :highlights
+;   [
+;    "Built a prototype IRC Client in D in one weekend"
+;    "Developed a highly optimized IRC serialization and deserialization code using D templates"
+;    ]
+;   }
   ]
  :education
  [
